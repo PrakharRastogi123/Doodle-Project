@@ -1,0 +1,1 @@
+This is the search engine, in which it crawls the site links and store them in the database to get the search results. This search engine looks like that of Google Search Engine, having various similar properties. Made by using php, javaScript, MySql, HTML/CSS
